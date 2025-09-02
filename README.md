@@ -166,4 +166,4 @@ Insights from rating data can be used to design driver training programs, improv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sakshi-Khandagale/OLA-Data-Analytics.git
+   git clone https://github.com/02advait/OLA-Data-Analytics.git
